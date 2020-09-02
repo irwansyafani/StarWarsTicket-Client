@@ -30,7 +30,7 @@ How To Use This App (Simulator: `iOS`)
 
 1. 🔓 `clone` this repo
 <br><br>
-2. 📣 run `npm install` or `expo install` on terminal 
+2. 📣 run `npm install` or `expo install` in repo on terminal
 <br><br>
 
 3. 🚀 run `expo start` on terminal
