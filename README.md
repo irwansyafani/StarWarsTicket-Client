@@ -72,4 +72,4 @@ How To Use This App (Simulator: `iOS`)
 
 `Thanks 😉`
 
-github : @IrwanKhaliq
+github : @irwansyafani
